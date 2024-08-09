@@ -16,10 +16,10 @@ With this Mods your old stinky GameBoy-Color will shine in new glory like a diam
 
 ## Preview
 
-| ![GameBoy](images/gbc_on.jpg) | ![GameBoy](images/gbc_charging.jpg) |
-| ----------------------------- | ----------------------------------- |
+| ![GameBoy](images/gbc_on.jpg) | ![GameBoy2](images/gbc_charging.jpg)      |
+| ----------------------------- |-------------------------------------------|
 | ![GameBoy_charger](images/gbc_charger.jpg) | ![GameBoy_f](images/gbc_chargingport.jpg) |
-| ![GameBoy_front](images/gbc_front.jpg) | ![GameBoy_back](images/gbc_back.jpg) |
+| ![GameBoy_front](images/gbc_front.jpg) | ![GameBoy_back](images/gbc_back.jpg)      |
 
 
 ### What's new
