@@ -16,18 +16,11 @@ With this Mods your old stinky GameBoy-Color will shine in new glory like a diam
 
 ## Preview
 
-<p align="center">
-    <img src="images/gbc_on.jpg" alt="GameBoy" width="300"/>
-    <img src="images/gbc_charging.jpg" alt="GameBoy" width="300"/>
-</p>
-<p align="center">
-    <img src="images/gbc_charger.jpg" alt="GameBoy_charger" width="300"/>
-    <img src="images/gbc_chargingport.jpg" alt="GameBoy_f" width="300"/>
-</p>
-<p align="center">
-    <img src="images/gbc_front.jpg" alt="GameBoy_front" width="300"/>
-    <img src="images/gbc_back.jpg" alt="GameBoy_back" width="300"/>
-</p>
+| ![GameBoy](images/gbc_on.jpg) | ![GameBoy](images/gbc_charging.jpg) |
+| ----------------------------- | ----------------------------------- |
+| ![GameBoy_charger](images/gbc_charger.jpg) | ![GameBoy_f](images/gbc_chargingport.jpg) |
+| ![GameBoy_front](images/gbc_front.jpg) | ![GameBoy_back](images/gbc_back.jpg) |
+
 
 ### What's new
 - Recharable Battery
