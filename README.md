@@ -10,8 +10,8 @@ With this Mods your old stinky GameBoy-Color will shine in new glory like a diam
 ## Table of Contents
 
 - [Material list](docs/materials.md)
-- [Modding Steps](docs/steps.md)
-- [Controls](docs/controls.md)
+- [Modding Steps -not started](docs/steps.md)
+- [Controls -same](docs/controls.md)
 
 
 ## Preview
